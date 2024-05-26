@@ -1,6 +1,6 @@
 [
   {
-    "Delay": 200,
+    "Delay": 100,
     "Target": "BMS BotApply"
   }
 ]
